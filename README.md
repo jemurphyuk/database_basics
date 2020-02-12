@@ -1,3 +1,4 @@
 # Libraries, modules and packages
 
-## second line
+This repo will explore libraries, modules, packages and python
+###Libraries

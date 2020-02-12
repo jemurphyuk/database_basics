@@ -19,3 +19,6 @@ AKA: python standard libraries! These come out of the box with python
 - Important notes
     - changes will travel with you if you don't commit them
     - must commit all changes before switching branches
+### Merging branch with master
+- pull request on github
+- merge pull request to realign with master

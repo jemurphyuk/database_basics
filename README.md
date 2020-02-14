@@ -69,3 +69,11 @@ AKA: python standard libraries (such as datetime)! These come out of the box wit
     - the json is not visible (by protocols) and will look like a dictionary {}
     - {'name': 'Geoff', 'card': '134352...'}
  - An Application Programming Interface will work with a JSON to work with data sent from a get request
+ 
+ ## TDD
+ - ensures we always have working code
+ - reduce technical debt
+ - easy to read maintainable code 
+ - easier to identify definition of done
+ ##### Unit tetsing
+ - individual function testing rather than whole code testing
